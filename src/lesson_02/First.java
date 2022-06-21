@@ -1,4 +1,4 @@
-package lesson_02;
+package src.lesson_02;
 
 public class First {
 }
